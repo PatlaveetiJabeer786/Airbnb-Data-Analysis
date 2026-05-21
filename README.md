@@ -8,39 +8,38 @@
 
 ---
 
-## 🚀 Project Overview (STAR Method)
+## 📊 Business Problem  
+Airbnb operates **8M+ listings across 100K+ cities worldwide**.  
+Hosts and investors face challenges in:  
+- Setting the **right price** for listings  
+- Understanding **demand drivers** (reviews, ratings, location)  
+- Identifying **profitable neighborhoods**  
 
-### 📍 Situation  
-Airbnb manages **8M+ listings** across **100K+ cities worldwide**. With such scale, hosts and investors struggle to identify **pricing strategies, demand drivers, and profitable neighborhoods**.
-
----
-
-### 🎯 Task  
-Perform **end-to-end data analysis** to answer:  
-- What factors influence listing prices?  
-- How do reviews & ratings impact demand?  
-- Which neighborhoods generate the highest ROI?  
+Without data-driven insights, hosts risk **lost revenue** and **poor customer satisfaction**.
 
 ---
 
-### ⚙️ Action  
-- 🔹 **Data Cleaning**: Removed duplicates, handled missing values, standardized formats.  
-- 🔹 **Exploratory Analysis**: Grouped & aggregated data using **Pandas**.  
-- 🔹 **Visualization**: Built impactful charts with **Matplotlib & Seaborn**.  
-- 🔹 **Business Framing**: Structured insights around host profitability & customer satisfaction.  
+## ⚙️ What I Did  
+- 🧹 **Data Cleaning**: Removed duplicates, handled missing values, standardized formats  
+- 📈 **Exploratory Analysis**: Grouped & aggregated data using **Pandas**  
+- 🎨 **Visualization**: Built charts with **Matplotlib & Seaborn** (pricing distribution, revenue by location, correlation heatmaps)  
+- 🧠 **Business Framing**: Structured findings around host profitability & customer satisfaction  
 
 ---
 
-### 📈 Result  
-- ✅ Identified **top 10 neighborhoods** with highest ROI potential.  
-- ✅ Found **strong correlation** between reviews/ratings and booking frequency.  
-- ✅ Built a **pricing model framework** explaining **70%+ variance** in listing prices.  
-- ✅ Delivered **actionable insights** for hosts to optimize pricing and improve customer experience.  
+## ✅ Results  
+- Identified **top 10 neighborhoods** with highest ROI potential  
+- Found **strong correlation** between reviews/ratings and booking frequency  
+- Built a **pricing model framework** explaining **70%+ variance** in listing prices  
+- Delivered **actionable insights** for hosts to optimize pricing and improve customer experience  
 
 ---
 
-## 🎨 Dashboard & Visuals  
-📊 Price Distribution | 🗺️ Revenue by Location | 🔥 Correlation Heatmaps  
+## 💡 Business Impact  
+This analysis helps Airbnb stakeholders:  
+- **Hosts** → Optimize pricing strategies, improve reviews, increase bookings  
+- **Investors** → Identify profitable markets and neighborhoods  
+- **Airbnb Management** → Enhance customer satisfaction and grow marketplace trust  
 
 ---
 
@@ -58,13 +57,5 @@ Perform **end-to-end data analysis** to answer:
 - `Airbnb.zip` → Dataset & resources  
 - `Airbnb_Questions.jpg` → Problem framing  
 - `README.md` → Project documentation  
-
----
-
-## 🏆 Key Takeaways  
-This project demonstrates **real-world data analytics skills**:  
-- Cleaning & preparing large datasets  
-- Extracting **business insights** from raw data  
-- Presenting results in a **professional, colorful format**  
 
 ---
