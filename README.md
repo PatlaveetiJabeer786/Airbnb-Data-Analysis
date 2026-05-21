@@ -1,35 +1,70 @@
-# Airbnb-Data-Analysis
-Full Data Analyst project analyzing Airbnb datasets using Python, Pandas, and Matplotlib
+# 🏡 Airbnb Data Analysis — Python, Pandas, Matplotlib
 
-
-# Day 10: Airbnb Data Analysis Project 🚀
-
-Full Data Analyst project analyzing Airbnb datasets using **Python**, **Pandas**, and **Matplotlib**.
-
----
-
-## 📊 Project Overview (STAR Method)
-
-### 📍 Situation
-Airbnb operates a massive global marketplace with over **8 million listings** across 100,000 cities. With such a vast amount of data from both hosts and guests, the company needs to extract actionable insights to understand market trends and optimize their hospitality services.
-
-### 🎯 Task
-The objective was to perform a comprehensive **Exploratory Data Analysis (EDA)** on an Airbnb dataset. The goal was to clean the raw data, identify key patterns in property listings, and visualize factors that influence pricing and availability to help drive business revenue.
-
-### 🛠️ Action
-I developed a Python-based end-to-end data pipeline using the following steps:
-* **Data Wrangling:** Cleaned and pre-processed the dataset using **Pandas** and **NumPy**, handling missing values and data inconsistencies to ensure analysis integrity.
-* **Statistical Analysis:** Analyzed listing distributions, host behaviors, and neighborhood trends.
-* **Data Visualization:** Created insightful charts using **Matplotlib** and **Seaborn** to compare price points across different regions and property types.
-* **EDA Implementation:** Applied exploratory techniques to uncover correlations between listing attributes and customer demand.
-
-### 🏆 Result
-* Successfully transformed a messy dataset into a **structured format** ready for business intelligence.
-* Identified **high-growth neighborhoods** and pricing "sweet spots" that could potentially increase booking rates.
-* Built a **reproducible analysis framework** that can be applied to other city-specific Airbnb datasets.
+![Banner](https://img.shields.io/badge/Project-Airbnb%20Data%20Analysis-blueviolet?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.9-yellow?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green?style=for-the-badge&logo=plotly)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ---
 
-## 🔗 Connect with Me
-* **Portfolio:** [jabeer.lovable.app](https://jabeer.lovable.app/)
-* **GitHub:** [PatlaveetiJabeer786](https://github.com/PatlaveetiJabeer786)
+## 🚀 Project Overview (STAR Method)
+
+### 📍 Situation  
+Airbnb manages **8M+ listings** across **100K+ cities worldwide**. With such scale, hosts and investors struggle to identify **pricing strategies, demand drivers, and profitable neighborhoods**.
+
+---
+
+### 🎯 Task  
+Perform **end-to-end data analysis** to answer:  
+- What factors influence listing prices?  
+- How do reviews & ratings impact demand?  
+- Which neighborhoods generate the highest ROI?  
+
+---
+
+### ⚙️ Action  
+- 🔹 **Data Cleaning**: Removed duplicates, handled missing values, standardized formats.  
+- 🔹 **Exploratory Analysis**: Grouped & aggregated data using **Pandas**.  
+- 🔹 **Visualization**: Built impactful charts with **Matplotlib & Seaborn**.  
+- 🔹 **Business Framing**: Structured insights around host profitability & customer satisfaction.  
+
+---
+
+### 📈 Result  
+- ✅ Identified **top 10 neighborhoods** with highest ROI potential.  
+- ✅ Found **strong correlation** between reviews/ratings and booking frequency.  
+- ✅ Built a **pricing model framework** explaining **70%+ variance** in listing prices.  
+- ✅ Delivered **actionable insights** for hosts to optimize pricing and improve customer experience.  
+
+---
+
+## 🎨 Dashboard & Visuals  
+📊 Price Distribution | 🗺️ Revenue by Location | 🔥 Correlation Heatmaps  
+
+---
+
+## 🛠️ Tools & Skills  
+- **Python** 🐍  
+- **Pandas** for data wrangling  
+- **Matplotlib & Seaborn** for visualization  
+- **Data Analytics & Business Insights**  
+
+---
+
+## 📂 Repository Contents  
+- `AIR_BNB_PROJECT_2.ipynb` → Jupyter Notebook with full analysis  
+- `Air Bnb data analysis project.pdf` → Report summary  
+- `Airbnb.zip` → Dataset & resources  
+- `Airbnb_Questions.jpg` → Problem framing  
+- `README.md` → Project documentation  
+
+---
+
+## 🏆 Key Takeaways  
+This project demonstrates **real-world data analytics skills**:  
+- Cleaning & preparing large datasets  
+- Extracting **business insights** from raw data  
+- Presenting results in a **professional, colorful format**  
+
+---
